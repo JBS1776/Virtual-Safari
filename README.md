@@ -1,7 +1,10 @@
 # Virtual Safari
+I have encountered this project recently and remembered how much fun I had with this DVD game in my youth.  I have implemented the ability to play the Boat tour and also the Virtual Safari games from Lion King 1.5 and Lion King 2.0 DVDs.  Commandline tool FFMPEG came in great handy in trimming videos clips to the tenth of seconds for effective transitions.  Notes below here, with the exception of the live link to my version of the file, were the notes preserved by the original author of the project.
+
 This project is a recreation of the Pumba and Timone Virtual Safari Jeep Tour, an interactive "choose-your-own-adventure" from the *The Lion King* bonus DVD.
 
-**Link to live verison [here](https://virtualsafari.netlify.app/)**
+**Link to updated live version [here](https://jbs1776.github.io/Virtual-Safari/)**
+**Link to original live verison [here](https://virtualsafari.netlify.app/)**
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/51346343/88115797-07ca2a80-cb85-11ea-8bb6-c6a460f1346a.png" alt="Virtual_Safari_Snippet">
